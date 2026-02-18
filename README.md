@@ -39,3 +39,4 @@ the aim of the repo is to provide explanations and a "manual" how to use GitHub,
 - *before the workshop...* contains links to download RStudio, Git and create an account on GitHub as well as a manual on how to configure Git so it can link RStudio with GitHub
 - *presentation* contains the presentation from the seminar
 - *rules of good practice using RStudio* contains additional tips and tricks on how to properly work with RStudio
+- *summary of the seminar* contains a summary of what was explained in the seminar, as well as some additional tips and tricks
