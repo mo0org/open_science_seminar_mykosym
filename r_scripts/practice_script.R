@@ -1,7 +1,8 @@
-#uploading a .csv dataset
-
-data<-read.csv(here::here("data/raw_data/raw_data_1.csv"),sep=";",dec=",")
 install.packages("here")
+
+#uploading a .csv dataset
+data<-read.csv(here::here("data/raw_data/raw_data_1.csv"),sep=";",dec=",")
+
 #creating a subset
 subset<-data[1:3,2:3]
 
